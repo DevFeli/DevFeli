@@ -20,3 +20,8 @@
 <img src="https://img.shields.io/badge/-BootStrap-05122A?style=flat&logo=bootstrap"></img>
 <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"></img>
 <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"></img>
+<hr>
+<h1>Contatos</h1>
+
+<a href="https://www.linkedin.com/in/devreis/"><img src="https://img.shields.io/badge/-LinKedin-05122A?style=flat&logo=linkedin"></img></a>
+<a href="mailto:dev.felipereis@gmailcom"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail"></img></a>
