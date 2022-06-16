@@ -34,4 +34,4 @@ dominar os frameworks react.js e laravel para num futuro proximo estudar node.js
 
 <a href="https://www.linkedin.com/in/devreis/"><img src="https://img.shields.io/badge/-LinKedin-05122A?style=flat&logo=linkedin"></img></a>
 <a href="mailto:dev.felipereis@gmailcom"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail"></img></a>
-<a href="http://devreis.com.br/"><h1>PORTFÒLIO</h1></a>
+<a href="http://devreis.com.br/"><h1>PORTFÓLIO</h1></a>
